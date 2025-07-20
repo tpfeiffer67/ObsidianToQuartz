@@ -1,0 +1,45 @@
+# ObsidianToQuartz Ignore File
+# Place this file at the root of your Obsidian vault
+# Patterns are relative to the vault root
+
+# Personal and private content
+Personal/
+Private/
+Journal/
+Daily Notes/
+
+# Development and testing
+Test/
+Sandbox/
+Archive/
+Old Projects/
+
+# Templates (often contain incomplete content)
+Templates/
+_templates/
+Templater/
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.backup
+~*
+.DS_Store
+
+# Draft content
+Drafts/
+*-draft.md
+*-wip.md
+WIP/
+
+# Resources that shouldn't be published
+Resources/
+Assets/raw/
+Attachments/unused/
+
+# Specific files to exclude
+README.md
+LICENSE.md
+todo.md
+kanban.md
+meeting-notes.md
